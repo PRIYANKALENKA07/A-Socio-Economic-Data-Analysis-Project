@@ -247,7 +247,7 @@ information. Only the cleaning script, documentation and
 dashboard  are shared.
 
 ---
-![Overview](screenshots/04_education_livelihoods.png)
+![Overview](Reports_Screenshot/R3.Demographics & Housing.png)
 
 ---
 
