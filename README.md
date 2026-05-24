@@ -247,6 +247,9 @@ information. Only the cleaning script, documentation and
 dashboard  are shared.
 
 ---
+![Overview](screenshots/04_education_livelihoods.png)
+
+---
 
 ## 👩‍💻 Author
 
