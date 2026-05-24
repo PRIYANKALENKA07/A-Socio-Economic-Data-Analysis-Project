@@ -247,7 +247,7 @@ information. Only the cleaning script, documentation and
 dashboard  are shared.
 
 ---
-![Overview](Reports_Screenshot/R3.Demographics & Housing.png)
+![Overview](https://github.com/PRIYANKALENKA07/A-Socio-Economic-Data-Analysis-Project/blob/main/Reports_Screenshot/R3.Demographics%20%26%20Housing.png)
 
 ---
 
