@@ -223,7 +223,7 @@ gaps inform women empowerment programme planning.
 
 ## 📁 Repository Structure
 
----
+```
 keonjhar-household-survey-dashboard/
 │
 ├── clean_keonjhar_survey.py
@@ -237,15 +237,14 @@ keonjhar-household-survey-dashboard/
     ├── 03_health_nutrition.png
     ├── 04_education_livelihoods.png
     └── 05_women_social_protection.png
-
----
+```
 
 ## ⚠️ Data Privacy Note
 
 The raw survey data and cleaned CSV files are NOT uploaded 
 in this repository as they contain personal household 
 information. Only the cleaning script, documentation and 
-dashboard screenshots are shared.
+dashboard  are shared.
 
 ---
 
